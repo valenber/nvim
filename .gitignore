@@ -1,0 +1,5 @@
+*.key
+*.key.gpg
+node_modules/
+.sisyphus/
+.claude/
